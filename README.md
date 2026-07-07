@@ -56,6 +56,11 @@ Summarizes workforce distribution by job role, age group, and environment satisf
 - Increase employee engagement and job satisfaction.
 - Focus retention efforts on departments with higher attrition.
 
+## Dashboard
+![Dashboard](https://github.com/nithinmunirathnam/HR-Analytics_Employee-Attrition-Analysis/blob/7b752a906ec740746eafd3ed958add5ec8b1ba34/Dashboard%201.png)
+![](https://github.com/nithinmunirathnam/HR-Analytics_Employee-Attrition-Analysis/blob/7b752a906ec740746eafd3ed958add5ec8b1ba34/Dashboard%202.png)
+![](https://github.com/nithinmunirathnam/HR-Analytics_Employee-Attrition-Analysis/blob/7b752a906ec740746eafd3ed958add5ec8b1ba34/Dashboard%203.png)
+
 ## Author
 
 **Nithin M**
